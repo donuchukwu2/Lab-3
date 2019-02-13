@@ -7,7 +7,7 @@ package mark.analyser;
 
 /**
  *
- * @author David
+ * @author Daniel
  */
 class sc {
     
