@@ -7,7 +7,7 @@ package mark.analyser;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class MarkAnalyser {
 
