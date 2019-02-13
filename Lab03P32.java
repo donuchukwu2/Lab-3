@@ -7,7 +7,7 @@ package lab03.p3.pkg2;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab03P32 {
 
