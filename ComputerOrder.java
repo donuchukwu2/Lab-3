@@ -7,7 +7,7 @@ package computer.order;
 
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class ComputerOrder {
 
